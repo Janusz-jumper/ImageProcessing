@@ -10,7 +10,7 @@ Aplikacja okienkowa do podstawowej obróbki obrazów w języku Java z wykorzysta
 - **Logo Politechniki Wrocławskiej na górze aplikacji**  
   Logo (`logo_pwr.png`) jest wyświetlane na górze, a w przypadku braku pliku aplikacja obsługuje ten przypadek bez błędu.
 - **Lista rozwijana z wyborem operacji**  
-  Dostępne operacje: `Negatyw`, `Progowanie`, `Konturowanie`, `Obrót`.
+  Dostępne operacje: `Negatyw`, `Progowanie`, `Konturowanie`, `Obrót`. (nie zmieniają one obrazu)
 - **Przycisk "Wykonaj" z walidacją wyboru operacji**  
   Jeśli użytkownik nie wybierze operacji, pojawia się komunikat toast: "Nie wybrano operacji do wykonania".
 - **Wczytywanie obrazów JPG z walidacją typu pliku**  
