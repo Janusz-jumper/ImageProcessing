@@ -20,7 +20,7 @@ Aplikacja okienkowa do podstawowej obróbki obrazów w języku Java z wykorzysta
 - **Podgląd obrazu oryginalnego i przetworzonego**  
 
 - **Przycisk "Zapisz" aktywowany po wczytaniu obrazu**
-- 
+
 - **Okno modalne do zapisu obrazu z walidacją długości nazwy i obsługą przypadków błędnych:**
   - Zbyt krótka nazwa (komunikat: "Wpisz co najmniej 3 znaki")
   - Plik już istnieje
